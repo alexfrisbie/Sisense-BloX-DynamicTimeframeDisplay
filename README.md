@@ -1,4 +1,5 @@
 # Dynamic Timeframe in Sisense BloX
+Do you need to remove confusion around the time scope on your Sisense dashboards? This post will go over how to explicitly show the start and end dates which dynamically update to reflect filter selections. 
 
 ## Analytical Need
 Understanding the timeframe scope of the data is crucial for contextualizing the dashboard or report accurately. Sisense generally accomplishes this by reflecting the timeframe scope within the filter. However, there are situations when explicitly showing the scope is more clear than the date filter.
