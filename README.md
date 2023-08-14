@@ -64,7 +64,5 @@ widget.on('domready', function() {
 })
 ```
 
-## Closing Remarks
 This example displays our date values with the format 'yyyy/mm/dd'. The javascript can be modified to customize the format to whatever desired format, such as 'dd - mmm - yyyy'. 
 
-Questions or other ideas on how to use this? Leave a comment below! 
